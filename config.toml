@@ -1,0 +1,23 @@
+baseURL = "/"
+languageCode = "fr-fr"
+title = "SOS Insecteurs Piqueurs"
+theme = "hugo-scroll"
+draft = false
+
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+[params]
+    copyright = "@ Alexandre Boudet - Réalisation Alistair Medias 2021"
+
+    description = "Nid de guêpes, de frelons ? Appelez SOS Insectes piqueurs pour vous en débarrasser rapidement"
+
+    #favicon = "images/"
+
+    images = ["images/insect.jpg"]
+
+    title = "SOS Insectes Piqueurs - désinsectisation guêpes, frelons européens et asiatiques"
+    
+        hidedesignbyline = true
+
+[params.meta]
+    keywords = "guepes, frelons, nids, abeilles, insectes, désinsectisation"

@@ -1,0 +1,15 @@
+#site-head {
+    background-color: black !important;
+}
+
+#site-head-content {
+    color: white;
+}
+
+.post-holder.odd {
+    background-color: #e1001a;
+}
+
+.soso-logo {
+    max-width: 100%;
+}
