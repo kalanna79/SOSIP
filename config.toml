@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://kalanna79.github.io/SOSIP/"
 languageCode = "fr-fr"
 title = "SOS Insecteurs Piqueurs"
 theme = "hugo-scroll"
